@@ -1,0 +1,7 @@
+.Xil/
+.run/
+_x/
+*.log
+*.xo
+*.info
+.vscode
